@@ -10,11 +10,11 @@ This document is not final canon. It is a first draft compiled from available co
 
 1. Core Identity
 
-Name: Wisut Punnaraj
-Preferred name: Pop / ป๊อป
-Role label: Punnaraj Solo Developed
-ORCID: 0009-0000-0549-4589
-ORCID URL: https://orcid.org/0009-0000-0549-4589
+    Name: Wisut Punnaraj
+    Preferred name: Pop / ป๊อป
+    Role label: Punnaraj Solo Developed
+    ORCID: 0009-0000-0549-4589
+    ORCID URL: https://orcid.org/0009-0000-0549-4589
 2. Public Contact and Reference Surfaces
 
 MUD reference site: https://mud.punnaraj.com
